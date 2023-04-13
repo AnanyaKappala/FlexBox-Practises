@@ -1,0 +1,34 @@
+* {
+    margin: 0%;
+}
+.navbar {
+    background-color: #dbe7d7;
+    display: flex;
+    flex-direction: column;
+    width: 18%;
+    height: 646px;
+    float: left;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+}
+.header {
+    float: right;
+    background-color: #a6cb50;
+    width: 100%;
+    height: 150px;
+}
+.article {
+    background-color: #ffffff;
+    height: 346px;
+    display: block;
+}
+.footer {
+    background-color: #a6cb50;
+    height: 150px;
+
+}
+h1 {
+    margin: 20px;
+}
